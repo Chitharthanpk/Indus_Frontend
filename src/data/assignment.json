@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "grades": {
+      "Grade 10": {
+        "subjects": {
+          "Geography": {
+            "resources": [
+              {
+                "fileName": "World Map Notes",
+                "issueDate": "2025-01-05",
+                "fileType": "pdf",
+                "fileUrl": "/files/geography/world_map_notes.pdf"
+              },
+              {
+                "fileName": "Climate Zones",
+                "issueDate": "2025-01-12",
+                "fileType": "ppt",
+                "fileUrl": "/files/geography/climate_zones.ppt"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Country Capitals Report",
+                "dueDate": "2025-02-10"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Geography Basics Quiz",
+                "testId": "GEO101",
+                "password": "geo@123"
+              }
+            ]
+          },
+          "History": {
+            "resources": [
+              {
+                "fileName": "World War II Summary",
+                "issueDate": "2025-01-08",
+                "fileType": "doc",
+                "fileUrl": "/files/history/ww2_summary.doc"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Ancient Civilizations Essay",
+                "dueDate": "2025-02-14"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Medieval History Test",
+                "testId": "HIS201",
+                "password": "his@456"
+              }
+            ]
+          },
+          "Biology": {
+            "resources": [
+              {
+                "fileName": "Cell Structure",
+                "issueDate": "2025-01-10",
+                "fileType": "pdf",
+                "fileUrl": "/files/biology/cell_structure.pdf"
+              },
+              {
+                "fileName": "Human Anatomy",
+                "issueDate": "2025-01-18",
+                "fileType": "ppt",
+                "fileUrl": "/files/biology/human_anatomy.ppt"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Plant Classification",
+                "dueDate": "2025-02-12"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Genetics Quiz",
+                "testId": "BIO301",
+                "password": "bio@789"
+              }
+            ]
+          },
+          "Physics": {
+            "resources": [
+              {
+                "fileName": "Newton's Laws",
+                "issueDate": "2025-01-07",
+                "fileType": "pdf",
+                "fileUrl": "/files/physics/newtons_laws.pdf"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Projectile Motion Experiment",
+                "dueDate": "2025-02-18"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Mechanics Test",
+                "testId": "PHY101",
+                "password": "phy@111"
+              }
+            ]
+          },
+          "Design": {
+            "resources": [
+              {
+                "fileName": "Graphic Design Basics",
+                "issueDate": "2025-01-15",
+                "fileType": "pdf",
+                "fileUrl": "/files/design/design_basics.pdf"
+              },
+              {
+                "fileName": "UI Principles",
+                "issueDate": "2025-01-20",
+                "fileType": "ppt",
+                "fileUrl": "/files/design/ui_principles.ppt"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Logo Design Project",
+                "dueDate": "2025-02-22"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Design Fundamentals Quiz",
+                "testId": "DES101",
+                "password": "des@222"
+              }
+            ]
+          },
+          "Math": {
+            "resources": [
+              {
+                "fileName": "Algebra Guide",
+                "issueDate": "2025-01-11",
+                "fileType": "pdf",
+                "fileUrl": "/files/math/algebra_guide.pdf"
+              },
+              {
+                "fileName": "Trigonometry Notes",
+                "issueDate": "2025-01-16",
+                "fileType": "ppt",
+                "fileUrl": "/files/math/trigonometry_notes.ppt"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Probability Worksheet",
+                "dueDate": "2025-02-08"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Algebra Midterm",
+                "testId": "MATH101",
+                "password": "math@333"
+              }
+            ]
+          },
+          "English": {
+            "resources": [
+              {
+                "fileName": "Poetry Analysis",
+                "issueDate": "2025-01-09",
+                "fileType": "pdf",
+                "fileUrl": "/files/english/poetry_analysis.pdf"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Essay on Shakespeare",
+                "dueDate": "2025-02-28"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Grammar Quiz",
+                "testId": "ENG101",
+                "password": "eng@444"
+              }
+            ]
+          },
+          "Chemistry": {
+            "resources": [
+              {
+                "fileName": "Periodic Table",
+                "issueDate": "2025-01-06",
+                "fileType": "pdf",
+                "fileUrl": "/files/chemistry/periodic_table.pdf"
+              },
+              {
+                "fileName": "Organic Chemistry Basics",
+                "issueDate": "2025-01-14",
+                "fileType": "ppt",
+                "fileUrl": "/files/chemistry/organic_chemistry_basics.ppt"
+              }
+            ],
+            "assignments": [
+              {
+                "assignmentName": "Lab Report on Acids & Bases",
+                "dueDate": "2025-02-16"
+              }
+            ],
+            "tests": [
+              {
+                "testName": "Chemical Reactions Quiz",
+                "testId": "CHEM101",
+                "password": "chem@555"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]
