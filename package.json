@@ -1,3 +1,4 @@
+git config --get user.name
 {
   "name": "indusmock",
   "private": true,
