@@ -18,7 +18,6 @@
     /* Linting / strictness */
     "strict": true,
 
-    /* 👉 TEMPORARY CHANGES: allow unused locals/params so CI doesn't fail */
     "noUnusedLocals": false,
     "noUnusedParameters": false,
 
