@@ -170,8 +170,8 @@ export default function Login() {
             </>
           )}
 
-          <div className="w-full">
-            <Button bgColor="bg-[#a5bdd2]" textColor="text-black" size="lg" className="w-full text-sm sm:text-base">
+          <div className="w-full ">
+            <Button bgColor="bg-[#a5bdd2]" textColor="text-black" size="lg" className="w-full text-sm sm:text-base cursor-pointer">
               {isForgotPassword ? "Reset Password" : "Login"}
             </Button>
           </div>
